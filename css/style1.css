@@ -1,0 +1,35 @@
+.one{
+	width: 222px;
+	height: 111px;
+	background: greenyellow;
+}
+.one div{
+	width: 50%;
+	height: 111px;
+	background: darkgreen;
+}
+.two{
+	width:222px;
+	height: 222px;
+	background-color: rgba(0,99,6,0.5);
+	background-image: url(../img/1.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+.three{
+	width:200px;
+	height:200px;
+	background: red;
+	border-bottom:6px dashed blue ;
+	border-top:6px solid black ;
+	border-left:6px dashed yellow;
+}
+.for{
+	
+}
+.four{
+	width=:200px;
+	height=:200px;
+	background: green;
+}
