@@ -1,0 +1,17 @@
+.one{
+	width: 300px;
+	height: 300px;
+	border: 3px dashed black;
+}
+.zi1{
+	width:100px;
+	height: 150px;
+	background: red;
+	float: left;
+}
+.zi2{
+	width:100px;
+	height:200px;
+	background: blue;
+	float:left;
+}
